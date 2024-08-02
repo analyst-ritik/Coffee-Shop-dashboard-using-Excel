@@ -38,6 +38,10 @@ Tools and Technologies
 Excel: Used for data cleaning, analysis, and visualization.
 Pivot Tables and Charts: Core tools for summarizing data and creating visual insights.
 
+
+![Screenshot 2024-02-15 143928](https://github.com/user-attachments/assets/d3a35635-e9a3-47d9-b49b-b2ecfcbc3d0d)
+
+
 Conclusion
 Actionable Insights: Provided insights to help the coffee shop optimize operations, improve sales strategies, and enhance customer satisfaction.
 Future Enhancements: Plans for integrating more advanced analytics and real-time data updates.
